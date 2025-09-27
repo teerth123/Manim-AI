@@ -1,4 +1,4 @@
-![My Video](https://github.com/teerth123/Manim-AI/blob/main/manimations/media/videos/vector/480p15/VectorYZPlaneIntercept.mp4)
+![Demo Video](https://github.com/teerth123/Manim-AI/blob/main/manimations/media/videos/vector/480p15/VectorYZPlaneIntercept.mp4)
 
 
 
