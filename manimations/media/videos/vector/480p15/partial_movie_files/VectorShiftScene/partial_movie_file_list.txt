@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/batman/Desktop/Projects/manim/my-app/manimations/media/videos/vector/480p15/partial_movie_files/VectorShiftScene/4178081598_2542245658_3208326487.mp4'
+file 'file:/home/batman/Desktop/Projects/manim/my-app/manimations/media/videos/vector/480p15/partial_movie_files/VectorShiftScene/598161819_1121617232_2728485727.mp4'
+file 'file:/home/batman/Desktop/Projects/manim/my-app/manimations/media/videos/vector/480p15/partial_movie_files/VectorShiftScene/3206423854_2544940230_2485313110.mp4'
+file 'file:/home/batman/Desktop/Projects/manim/my-app/manimations/media/videos/vector/480p15/partial_movie_files/VectorShiftScene/3036368792_1831374817_2585536952.mp4'

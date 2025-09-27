@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",       // easier for Node CLI scripts
+    "moduleResolution": "Node",
+    "outDir": "dist-scripts",
+    "rootDir": ".",             // preserve folder structure
+    "esModuleInterop": true,
+    "strict": true
+  },
+  "include": ["app/api/user/generateVectorEmbeddings.ts"]
+}
